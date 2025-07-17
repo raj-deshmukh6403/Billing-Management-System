@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Billing-Management-System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/itext.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/AbsoluteLayout.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-8.0.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
